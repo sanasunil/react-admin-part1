@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "name": "Adam Joan",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "8129638125",
+      "id": "1"
+    },
+    {
+      "name": "John",
+      "address": "London",
+      "email": "john@gmail.com",
+      "contact": "8129638125",
+      "id": "2"
+    },
+    {
+      "name": "sana",
+      "email": "sana@gamil.com",
+      "contact": "34789921",
+      "address": "dan",
+      "id": "Op6ZJCb"
+    },
+    {
+      "name": "Sudhi",
+      "email": "sudhi@gmail.com",
+      "contact": "87654568",
+      "address": "France",
+      "id": "uNSyT46"
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "contact": "456789",
+      "address": "Italy",
+      "id": "TFYATWx"
+    },
+    {
+      "name": "cbcbv",
+      "email": "asdd@fghn.com",
+      "contact": "23456789",
+      "address": "sfnimfv",
+      "id": "9dV2bs8"
+    },
+    {
+      "name": "asd",
+      "email": "asdf@sdfg.com",
+      "contact": "23456789",
+      "address": "Paris",
+      "id": "2wiN1Qc"
+    }
+  ]
+}
